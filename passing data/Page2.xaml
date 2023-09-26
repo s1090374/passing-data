@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="passing_data.Page2"
+             Title="Page2">
+    <StackLayout Margin="30">
+        <Label x:Name="lblUserName" FontSize="20" TextColor="CadetBlue"></Label>
+    </StackLayout>
+</ContentPage>
